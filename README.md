@@ -7,6 +7,8 @@ Dashboard desenvolvido em **Power BI** para análise da atividade do mercado fin
 
 O projeto transforma dados financeiros em informações visuais e indicadores estratégicos, permitindo comparar o desempenho das empresas, identificar oscilações de mercado e apoiar a tomada de decisão baseada em dados (*Data-Driven Decision Making*).
 
+👉 [**Acessar o Relatório Interativo — Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNTdjZmE5MzUtYTk3YS00MjM5LWI3ODQtNGRhMjNjYTc4NTFkIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
+
 ## 📊 Indicadores de Desempenho (KPIs)
 
 O dashboard apresenta uma visão consolidada dos principais indicadores financeiros:
