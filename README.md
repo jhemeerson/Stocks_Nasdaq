@@ -64,3 +64,5 @@ O projeto também reforça a importância de um design visual organizado, com hi
 ---
 
 **Projeto desenvolvido com foco em Business Intelligence, análise de desempenho e geração de insights para apoiar a tomada de decisão baseada em dados.**
+
+🔗 [**Portfólio**](https://portfolio-jhemerson-oliveira.lovable.app/)
